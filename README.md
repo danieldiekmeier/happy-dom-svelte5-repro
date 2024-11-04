@@ -1,5 +1,7 @@
 # Reproduction
 
+Reproduction for [testing-library/svelte-testing-library/issues/407](https://github.com/testing-library/svelte-testing-library/issues/407).
+
 1. Install dependencies with `pnpm install`
 2. Run the specs with `pnpm test`
 3. You should see this error:
